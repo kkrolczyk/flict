@@ -1,6 +1,6 @@
 dataclasses ~= 0.6
 dlint ~= 0.13
-flake8 ~= 5.0
+flake8 ~= 6.0
 flake8-2020 ~= 1.7
 flake8-bandit ~= 4.1
 flake8-broken-line ~= 0.6
